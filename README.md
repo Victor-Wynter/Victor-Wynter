@@ -1,4 +1,4 @@
-<h1 align="center">🔱 Olá, eu sou o Victor Wynter! 🔱</h1>
+<h1 align="center">🔱 Olá, eu sou o Victor Ruiz Scarassati! 🔱</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px" alt="typing gif"/>
